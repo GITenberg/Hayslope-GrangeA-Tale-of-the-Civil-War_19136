@@ -1,0 +1,27 @@
+_repo: Hayslope-GrangeA-Tale-of-the-Civil-War_19136
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Leslie, Emma
+    gutenberg_agent_id: '8498'
+    url: http://www.gutenberg.org/2009/agents/8498
+description: ''
+gutenberg_bookshelf: Children's Fiction
+gutenberg_issued: '2006-08-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '19136'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'Great Britain -- History -- Civil War, 1642-1649 -- Juvenile fiction'
+title: 'Hayslope Grange
+
+  A Tale of the Civil War'
+url: http://www.gutenberg.org/ebooks/19136
